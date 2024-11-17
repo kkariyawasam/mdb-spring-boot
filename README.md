@@ -23,8 +23,3 @@ This API provides functionality to manage a collection of books. It allows users
 - **BookController**: The primary controller class handling requests and responses.
 - **BookRepository**: Repository interface for database operations.
 - **BookDTO**: Data Transfer Object used to return a simplified view of books.
-
-## Notes:
-
-- Detailed logs are provided for all operations for debugging and audit purposes.
-- Proper HTTP status codes are returned for success and error scenarios.
